@@ -39,8 +39,10 @@ import demo from "./demo.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import starbucks from "./company/hhc.jpeg";
+import tesla from "./company/avtechfin.jpeg";
+import Avtechfin from "./company/avtechfin.jpeg";
+import HHC from "./company/hhc.jpeg";
 
 // PROJECT IMAGE
 import Ajio from "./shop.png";
@@ -66,6 +68,8 @@ export {
   git,
   html,
   javascript,
+  Avtechfin,
+  HHC,
   mongodb,
   nodejs,
   reactjs,
