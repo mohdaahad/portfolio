@@ -131,27 +131,27 @@ const technologies = [
 const testimonials = [
     {
         testimonial:
-            "Mohd quickly adapted to our fast-paced environment at Avtechfin. His expertise in full-stack development and attention to detail allowed us to implement complex features seamlessly. His innovative mindset and commitment to excellence make him a standout developer.",
-        name: "Sara Lee",
+            "Mohd quickly adapted to our environment, delivering complex features seamlessly. His innovative approach and dedication set him apart..",
+        name: "Govind bhardwaj",
         designation: "Senior Developer",
         company: "Avtechfin",
-        image: "https://randomuser.me/api/portraits/women/4.jpg",
+        image: "https://media.licdn.com/dms/image/v2/C4D03AQFZWu_J6dAcfg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1622716326125?e=1743638400&v=beta&t=E5SctmLM-YM4DzeuqBJd_zMq0B-hlT97RO4RXqTPag0",
     },
     {
         testimonial:
-            "Mohd Aahad demonstrated exceptional skills as a Full Stack Web Developer Intern. His contributions significantly improved our platform's performance and user engagement. His ability to collaborate effectively and deliver high-quality solutions on time was invaluable to our team.",
-        name: "Chris Brown",
+            "Mohd made significant contributions to our platform, enhancing performance and user engagement. His teamwork and quality solutions were invaluable.",
+        name: "Afjal Ahamad",
         designation: "Project Manager",
         company: "Helping Hands Community",
-        image: "https://randomuser.me/api/portraits/men/5.jpg",
+        image: "https://media.licdn.com/dms/image/v2/D5603AQFMZBA8spMk-w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724727756112?e=1743638400&v=beta&t=MySsoVB4XhdAi1Az8AGbiPPn6prXWKj5ksg1hEfvRu4",
     },
     {
         testimonial:
-            "As a student, Mohd showcased outstanding dedication and talent in full-stack web development. He consistently delivered projects that exceeded expectations and demonstrated a strong grasp of both frontend and backend technologies. I have no doubt he will continue to excel in his career.",
-        name: "Lisa Wang",
+            "Mohd displayed exceptional talent in full-stack development, consistently exceeding expectations in his projects. He is sure to excel in his career.",
+        name: "Aniket Nichat",
         designation: "Lead Instructor",
         company: "AlmaBetter",
-        image: "https://randomuser.me/api/portraits/women/6.jpg",
+        image: "https://almablog-media.s3.ap-south-1.amazonaws.com/fdfaf_a7969014f4.png",
     },
 ];
 
