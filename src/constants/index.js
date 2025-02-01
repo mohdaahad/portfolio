@@ -131,26 +131,26 @@ const technologies = [
 const testimonials = [
     {
         testimonial:
-            "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+            "Mohd quickly adapted to our fast-paced environment at Avtechfin. His expertise in full-stack development and attention to detail allowed us to implement complex features seamlessly. His innovative mindset and commitment to excellence make him a standout developer.",
         name: "Sara Lee",
-        designation: "CFO",
-        company: "Acme Co",
+        designation: "Senior Developer",
+        company: "Avtechfin",
         image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
         testimonial:
-            "I've never met a web developer who truly cares about their clients' success like Rick does.",
+            "Mohd Aahad demonstrated exceptional skills as a Full Stack Web Developer Intern. His contributions significantly improved our platform's performance and user engagement. His ability to collaborate effectively and deliver high-quality solutions on time was invaluable to our team.",
         name: "Chris Brown",
-        designation: "COO",
-        company: "DEF Corp",
+        designation: "Project Manager",
+        company: "Helping Hands Community",
         image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
         testimonial:
-            "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+            "As a student, Mohd showcased outstanding dedication and talent in full-stack web development. He consistently delivered projects that exceeded expectations and demonstrated a strong grasp of both frontend and backend technologies. I have no doubt he will continue to excel in his career.",
         name: "Lisa Wang",
-        designation: "CTO",
-        company: "456 Enterprises",
+        designation: "Lead Instructor",
+        company: "AlmaBetter",
         image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
 ];
